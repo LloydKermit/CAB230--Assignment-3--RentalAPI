@@ -1,4 +1,5 @@
 REST API created for CAB230 Assignment 3: Server-Side Express Application
+---------------
 
 The following technologies have been used:
 
